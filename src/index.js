@@ -1,1 +1,1 @@
-export const hihi = 'hihi';
+export default { hihi: 'hihi' };
